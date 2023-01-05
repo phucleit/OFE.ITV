@@ -1,0 +1,110 @@
+{
+  "ContractsList": {
+    "description": "Auto imported from components/Contracts/list.vue"
+  },
+  "ContractsList2": {
+    "description": "Auto imported from components/Contracts/list_2.vue"
+  },
+  "CustomerAllService": {
+    "description": "Auto imported from components/Customer/allService.vue"
+  },
+  "CustomerDomainService": {
+    "description": "Auto imported from components/Customer/domainService.vue"
+  },
+  "CustomerList": {
+    "description": "Auto imported from components/Customer/list.vue"
+  },
+  "DashboardExpiredTable": {
+    "description": "Auto imported from components/Dashboard/expiredTable.vue"
+  },
+  "LayoutFooter": {
+    "description": "Auto imported from components/Layout/footer.vue"
+  },
+  "LayoutMenu": {
+    "description": "Auto imported from components/Layout/menu.vue"
+  },
+  "LayoutNavbar": {
+    "description": "Auto imported from components/Layout/navbar.vue"
+  },
+  "UserList": {
+    "description": "Auto imported from components/User/list.vue"
+  },
+  "WidgetCard": {
+    "description": "Auto imported from components/Widget/card.vue"
+  },
+  "WidgetInfoCard": {
+    "description": "Auto imported from components/Widget/infoCard.vue"
+  },
+  "WidgetPlayer": {
+    "description": "Auto imported from components/Widget/player.vue"
+  },
+  "DashboardCardProvider": {
+    "description": "Auto imported from components/Dashboard/Card/provider.vue"
+  },
+  "DashboardCardStatic": {
+    "description": "Auto imported from components/Dashboard/Card/static.vue"
+  },
+  "DashboardCharts": {
+    "description": "Auto imported from components/Dashboard/Charts/index.vue"
+  },
+  "DashboardStatistical": {
+    "description": "Auto imported from components/Dashboard/Statistical/index.vue"
+  },
+  "DashboardStatisticalServiceMonth": {
+    "description": "Auto imported from components/Dashboard/Statistical/serviceMonth.vue"
+  },
+  "DashboardStatisticalServiceYear": {
+    "description": "Auto imported from components/Dashboard/Statistical/serviceYear.vue"
+  },
+  "PlansContentCard": {
+    "description": "Auto imported from components/Plans/Content/card.vue"
+  },
+  "PlansDomainList": {
+    "description": "Auto imported from components/Plans/Domain/list.vue"
+  },
+  "PlansEmailCard": {
+    "description": "Auto imported from components/Plans/Email/card.vue"
+  },
+  "PlansFacebookCard": {
+    "description": "Auto imported from components/Plans/Facebook/card.vue"
+  },
+  "PlansGoogleCard": {
+    "description": "Auto imported from components/Plans/Google/card.vue"
+  },
+  "PlansHostingCard": {
+    "description": "Auto imported from components/Plans/Hosting/card.vue"
+  },
+  "PlansMaintenanceCard": {
+    "description": "Auto imported from components/Plans/Maintenance/card.vue"
+  },
+  "PlansSslCard": {
+    "description": "Auto imported from components/Plans/Ssl/card.vue"
+  },
+  "ServicesContentList": {
+    "description": "Auto imported from components/Services/Content/list.vue"
+  },
+  "ServicesDomainList": {
+    "description": "Auto imported from components/Services/Domain/list.vue"
+  },
+  "ServicesEmailList": {
+    "description": "Auto imported from components/Services/Email/list.vue"
+  },
+  "ServicesFacebookList": {
+    "description": "Auto imported from components/Services/Facebook/list.vue"
+  },
+  "ServicesGoogleList": {
+    "description": "Auto imported from components/Services/Google/list.vue"
+  },
+  "ServicesHostingList": {
+    "description": "Auto imported from components/Services/Hosting/list.vue"
+  },
+  "ServicesMaintenanceList": {
+    "description": "Auto imported from components/Services/Maintenance/list.vue"
+  },
+  "ServicesSslList": {
+    "description": "Auto imported from components/Services/Ssl/list.vue"
+  },
+  "UserRoleList": {
+    "description": "Auto imported from components/User/Role/list.vue"
+  }
+}

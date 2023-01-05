@@ -1,0 +1,233 @@
+[
+  {
+    "name": "contracts",
+    "path": "/contracts",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\contracts\\\\index.vue",
+    "chunkName": "pages/contracts/index",
+    "_name": "_1e792275"
+  },
+  {
+    "name": "customer",
+    "path": "/customer",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\customer\\\\index.vue",
+    "chunkName": "pages/customer/index",
+    "_name": "_00fa1b00"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_df79c4a6"
+  },
+  {
+    "name": "users",
+    "path": "/users",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\users\\\\index.vue",
+    "chunkName": "pages/users/index",
+    "_name": "_a9ad14a4"
+  },
+  {
+    "name": "contracts-add",
+    "path": "/contracts/add",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\contracts\\\\add.vue",
+    "chunkName": "pages/contracts/add",
+    "_name": "_e6a90cf8"
+  },
+  {
+    "name": "contracts-add2",
+    "path": "/contracts/add2",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\contracts\\\\add2.vue",
+    "chunkName": "pages/contracts/add2",
+    "_name": "_08db605e"
+  },
+  {
+    "name": "customer-add",
+    "path": "/customer/add",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\customer\\\\add.vue",
+    "chunkName": "pages/customer/add",
+    "_name": "_7b9718cf"
+  },
+  {
+    "name": "plans-content",
+    "path": "/plans/content",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\plans\\\\content\\\\index.vue",
+    "chunkName": "pages/plans/content/index",
+    "_name": "_115a4522"
+  },
+  {
+    "name": "plans-domain",
+    "path": "/plans/domain",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\plans\\\\domain\\\\index.vue",
+    "chunkName": "pages/plans/domain/index",
+    "_name": "_782d6348"
+  },
+  {
+    "name": "plans-email",
+    "path": "/plans/email",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\plans\\\\email\\\\index.vue",
+    "chunkName": "pages/plans/email/index",
+    "_name": "_dbeedc28"
+  },
+  {
+    "name": "plans-facebook",
+    "path": "/plans/facebook",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\plans\\\\facebook\\\\index.vue",
+    "chunkName": "pages/plans/facebook/index",
+    "_name": "_069670f4"
+  },
+  {
+    "name": "plans-google",
+    "path": "/plans/google",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\plans\\\\google\\\\index.vue",
+    "chunkName": "pages/plans/google/index",
+    "_name": "_2142629a"
+  },
+  {
+    "name": "plans-hosting",
+    "path": "/plans/hosting",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\plans\\\\hosting\\\\index.vue",
+    "chunkName": "pages/plans/hosting/index",
+    "_name": "_59775e0e"
+  },
+  {
+    "name": "plans-maintenance",
+    "path": "/plans/maintenance",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\plans\\\\maintenance\\\\index.vue",
+    "chunkName": "pages/plans/maintenance/index",
+    "_name": "_694f48d6"
+  },
+  {
+    "name": "plans-ssl",
+    "path": "/plans/ssl",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\plans\\\\ssl\\\\index.vue",
+    "chunkName": "pages/plans/ssl/index",
+    "_name": "_0ddfa8fc"
+  },
+  {
+    "name": "services-content",
+    "path": "/services/content",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\services\\\\content\\\\index.vue",
+    "chunkName": "pages/services/content/index",
+    "_name": "_39f21d7b"
+  },
+  {
+    "name": "services-domain",
+    "path": "/services/domain",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\services\\\\domain\\\\index.vue",
+    "chunkName": "pages/services/domain/index",
+    "_name": "_a8401c88"
+  },
+  {
+    "name": "services-email",
+    "path": "/services/email",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\services\\\\email\\\\index.vue",
+    "chunkName": "pages/services/email/index",
+    "_name": "_075064f8"
+  },
+  {
+    "name": "services-facebook",
+    "path": "/services/facebook",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\services\\\\facebook\\\\index.vue",
+    "chunkName": "pages/services/facebook/index",
+    "_name": "_0dfd88fa"
+  },
+  {
+    "name": "services-google",
+    "path": "/services/google",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\services\\\\google\\\\index.vue",
+    "chunkName": "pages/services/google/index",
+    "_name": "_23115d27"
+  },
+  {
+    "name": "services-hosting",
+    "path": "/services/hosting",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\services\\\\hosting\\\\index.vue",
+    "chunkName": "pages/services/hosting/index",
+    "_name": "_c7d2c3cc"
+  },
+  {
+    "name": "services-maintenance",
+    "path": "/services/maintenance",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\services\\\\maintenance\\\\index.vue",
+    "chunkName": "pages/services/maintenance/index",
+    "_name": "_2d00b5a1"
+  },
+  {
+    "name": "services-ssl",
+    "path": "/services/ssl",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\services\\\\ssl\\\\index.vue",
+    "chunkName": "pages/services/ssl/index",
+    "_name": "_5cd8cf08"
+  },
+  {
+    "name": "template-dashboard",
+    "path": "/template/dashboard",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\template\\\\dashboard.vue",
+    "chunkName": "pages/template/dashboard",
+    "_name": "_fe054eb4"
+  },
+  {
+    "name": "template-newpage",
+    "path": "/template/newpage",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\template\\\\newpage.vue",
+    "chunkName": "pages/template/newpage",
+    "_name": "_5add097e"
+  },
+  {
+    "name": "template-todolist",
+    "path": "/template/todolist",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\template\\\\todolist.vue",
+    "chunkName": "pages/template/todolist",
+    "_name": "_75d42c7c"
+  },
+  {
+    "name": "users-roles",
+    "path": "/users/roles",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\users\\\\roles\\\\index.vue",
+    "chunkName": "pages/users/roles/index",
+    "_name": "_47ebef6e"
+  },
+  {
+    "name": "users-roles-add",
+    "path": "/users/roles/add",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\users\\\\roles\\\\add.vue",
+    "chunkName": "pages/users/roles/add",
+    "_name": "_0723c458"
+  },
+  {
+    "name": "users-roles-id",
+    "path": "/users/roles/:id",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\users\\\\roles\\\\_id.vue",
+    "chunkName": "pages/users/roles/_id",
+    "_name": "_b440ee1e"
+  },
+  {
+    "name": "contracts-id",
+    "path": "/contracts/:id",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\contracts\\\\_id.vue",
+    "chunkName": "pages/contracts/_id",
+    "_name": "_2b673e1d"
+  },
+  {
+    "name": "customer-id",
+    "path": "/customer/:id",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\customer\\\\_id.vue",
+    "chunkName": "pages/customer/_id",
+    "_name": "_1a52dd68"
+  },
+  {
+    "name": "users-id",
+    "path": "/users/:id",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\users\\\\_id.vue",
+    "chunkName": "pages/users/_id",
+    "_name": "_3c550b96"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Phuc - cam vao xem\\\\Quan ly website\\\\NFE.CRM\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_d77283c4"
+  }
+]
